@@ -4,7 +4,7 @@ const wordList = [
 		hint: "Um instrumento musical com cordas.",
 	},
 	{
-		word: "oxigênio",
+		word: "oxigenio",
 		hint: "Um gás incolor e inodoro essencial à vida.",
 	},
 	{
@@ -32,7 +32,7 @@ const wordList = [
 		hint: "Um inseto com asas coloridas e corpo esguio.",
 	},
 	{
-		word: "história",
+		word: "historia",
 		hint: "O estudo de eventos passados ​​e da civilização humana.",
 	},
 	{
@@ -44,7 +44,7 @@ const wordList = [
 		hint: "Um gênero musical caracterizado pela improvisação e síncope.",
 	},
 	{
-		word: "câmera",
+		word: "camera",
 		hint: "Um dispositivo usado para capturar e gravar imagens ou vídeos.",
 	},
 	{
@@ -56,7 +56,7 @@ const wordList = [
 		hint: "Uma experiência emocionante ou ousada.",
 	},
 	{
-		word: "ciência",
+		word: "ciencia",
 		hint: "O estudo sistemático da estrutura e do comportamento do mundo físico e natural.",
 	},
 	{
@@ -64,19 +64,19 @@ const wordList = [
 		hint: "Um veículo movido a energia humana com duas rodas.",
 	},
 	{
-		word: "pôr do sol",
+		word: "por do sol",
 		hint: "O desaparecimento diário do sol abaixo do horizonte.",
 	},
 	{
-		word: "café",
+		word: "cafe",
 		hint: "Uma bebida popular com cafeína feita de grãos de café torrados.",
 	},
 	{
-		word: "dança",
+		word: "danca",
 		hint: "Um movimento rítmico do corpo frequentemente executado com música.",
 	},
 	{
-		word: "galáxia",
+		word: "galaxia",
 		hint: "Um vasto sistema de estrelas, gás e poeira mantidos juntos pela gravidade.",
 	},
 	{
@@ -84,7 +84,7 @@ const wordList = [
 		hint: "Um grande conjunto de músicos tocando vários instrumentos.",
 	},
 	{
-		word: "vulcão",
+		word: "vulcao",
 		hint: "Uma montanha ou colina com uma abertura através da qual lava, fragmentos de rocha, vapor quente e gás são ejetados.",
 	},
 	{
@@ -104,7 +104,7 @@ const wordList = [
 		hint: "A arte e a ciência de projetar e construir edifícios.",
 	},
 	{
-		word: "balé",
+		word: "bale",
 		hint: "Uma forma de dança clássica caracterizada por movimentos precisos e graciosos.",
 	},
 	{
@@ -120,7 +120,7 @@ const wordList = [
 		hint: "A aplicação do conhecimento científico para fins práticos.",
 	},
 	{
-		word: "arco-íris",
+		word: "arco iris",
 		hint: "Um fenômeno meteorológico causado pela reflexão, refração e dispersão da luz.",
 	},
 	{
@@ -132,7 +132,7 @@ const wordList = [
 		hint: "Um instrumento musical tocado pressionando teclas que fazem os martelos baterem nas cordas.",
 	},
 	{
-		word: "férias",
+		word: "ferias",
 		hint: "Um período de tempo dehintdo ao prazer, descanso ou relaxamento.",
 	},
 	{
@@ -164,7 +164,7 @@ const wordList = [
 		hint: "Um gênero de ficção imaginativa envolvendo elementos mágicos e sobrenaturais.",
 	},
 	{
-		word: "telescópio",
+		word: "telescopio",
 		hint: "Um instrumento óptico usado para visualizar objetos distantes no espaço.",
 	},
 	{
@@ -172,7 +172,7 @@ const wordList = [
 		hint: "Um vento suave.",
 	},
 	{
-		word: "oásis",
+		word: "oasis",
 		hint: "Um local fértil em um deserto onde se encontra água.",
 	},
 	{
@@ -180,7 +180,7 @@ const wordList = [
 		hint: "A arte, processo ou prática de criar imagens registrando luz ou outra radiação eletromagnética.",
 	},
 	{
-		word: "safári",
+		word: "safari",
 		hint: "Uma expedição ou viagem, normalmente para observar a vida selvagem em seu habitat natural.",
 	},
 	{
@@ -208,7 +208,7 @@ const wordList = [
 		hint: "Uma afirmação ou situação que se contradiz ou desafia a intuição.",
 	},
 	{
-		word: "quebra cabeças",
+		word: "quebra cabecas",
 		hint: "Um jogo, brinquedo ou problema projetado para testar engenhosidade ou conhecimento.",
 	},
 	{
@@ -240,7 +240,7 @@ const wordList = [
 		hint: "Para tornar conhecido ou revelar algo anteriormente secreto ou desconhecido.",
 	},
 	{
-		word: "ilusão",
+		word: "ilusao",
 		hint: "Uma falsa percepção ou crença; uma aparência ou impressão enganosa.",
 	},
 	{
