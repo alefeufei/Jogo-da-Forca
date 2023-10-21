@@ -30,7 +30,7 @@ const getRandomWord = () => {
 
 const gameOver = (isVictory) => {
     // After game complete.. showing modal with relevant details
-    const modalText = isVictory ? `You found the word:` : 'The correct word was:';
+    const modalText = isVictory ? `Você encontrou a palavra:` : 'A palavra correta é:';
     gameModal.querySelector("img").src = `images/${isVictory ? 'victory' : 'lost'}.gif`;
     gameModal.querySelector("h4").innerText = isVictory ? 'Congrats!' : 'Game Over!';
     gameModal.querySelector("p").innerHTML = `${modalText} <b>${currentWord}</b>`;
